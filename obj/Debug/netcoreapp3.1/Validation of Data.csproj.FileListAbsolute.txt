@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.exe
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.dll
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.dll
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.genruntimeconfig.cache
